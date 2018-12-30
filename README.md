@@ -17,10 +17,6 @@ Set necessary permissions
 ```console
 $ sudo chmod 0755 Ampps-3.8-x86_64.run
 ```
-Set necessary permissions
-```console
-$ sudo chmod 0755 Ampps-3.8-x86_64.run
-```
 Run installer
 ```console
 $ sudo ./Ampps-3.8-x86_64.run
