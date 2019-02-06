@@ -92,7 +92,7 @@ Since gksu is deprecated people should switch to PolicyKit for access control. p
 
 ```console
 $ cd /usr/share/polkit-1/actions/
-$ touch com.ubuntu.ampps.policy
+$ sudo touch com.ubuntu.ampps.policy
 $ sudo nano com.ubuntu.ampps.policy
 ```
 Now paste the above code
