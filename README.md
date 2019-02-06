@@ -85,7 +85,7 @@ Download the AMPPS icon from this repo and move it to the correct path
 ```bash
 $ cd
 $ cd Downloads
-$ sudo mv ampps_large.png /user/local/ampps/
+$ sudo mv ampps_large.png /usr/local/ampps/
 ```
 
 Since gksu is deprecated people should switch to PolicyKit for access control. pkexec is a standard way of runing programs as a different user and is part of polkit. [Reference](https://forum.xfce.org/viewtopic.php?id=12348)
