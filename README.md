@@ -83,7 +83,8 @@ Keywords=ampps;
 ```
 Download the AMPPS icon from this repo and move it to the correct path
 ```bash
-$ cd /Downloads
+$ cd
+$ cd Downloads
 $ sudo mv ampps_large.png /user/local/ampps/
 ```
 
