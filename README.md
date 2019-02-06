@@ -32,7 +32,7 @@ $ sudo nano /etc/environment
 
 Add this line to the end of the file to stop Qt form using the MIT-SHM X11 extension
 ```console
-$ export QT_X11_NO_MITSHM=1
+export QT_X11_NO_MITSHM=1
 ```
 
 ## Fix Apache and PHP not running
