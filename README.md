@@ -61,7 +61,7 @@ $ sudo ./Ampps
 
 ```console
 $ cd /usr/share/applications/
-$ touch ampps.desktop
+$ sudo touch ampps.desktop
 $ sudo nano ampps.desktop
 ```
 Now paste the above code
